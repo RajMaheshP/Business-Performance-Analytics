@@ -61,7 +61,7 @@ The project covers:
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/Business-Performance-Analytics.git
+git clone https://github.com/RajMaheshP/Business-Performance-Analytics.git
 
 # Navigate to project folder
 cd Business-Performance-Analytics
@@ -75,3 +75,4 @@ pip install -r requirements.txt
 
 # Run dashboard
 python3 dashboard.py
+
